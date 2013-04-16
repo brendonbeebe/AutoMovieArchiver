@@ -11,4 +11,4 @@ Feel free to modify or use how ever you would like.  The entire vb project file 
 
 To Run/Install
 ==================
-Run AMA.exe and install to the default location.  This will automatically gather and install handbrake and MakeMKV.
+Run the installer/setup.exe
