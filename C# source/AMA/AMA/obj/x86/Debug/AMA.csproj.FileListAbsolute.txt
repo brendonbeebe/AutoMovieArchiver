@@ -1,0 +1,8 @@
+c:\users\tj\documents\visual studio 2010\Projects\AMA\AMA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tj\documents\visual studio 2010\Projects\AMA\AMA\bin\Debug\AMA.exe
+c:\users\tj\documents\visual studio 2010\Projects\AMA\AMA\bin\Debug\AMA.pdb
+c:\users\tj\documents\visual studio 2010\Projects\AMA\AMA\obj\x86\Debug\AMA.exe
+c:\users\tj\documents\visual studio 2010\Projects\AMA\AMA\obj\x86\Debug\AMA.pdb
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\AMA\AMA\obj\x86\Debug\AMA.Form1.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\AMA\AMA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\AMA\AMA\obj\x86\Debug\GenerateResource.write.1.tlog
